@@ -1,0 +1,9 @@
+﻿<!DOCTYPE html>
+<head>
+	<title>My Media Server</title>
+</head>
+<html>
+	<body>
+		<<data>>
+	</body>
+</html>
